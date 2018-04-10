@@ -1,4 +1,5 @@
 # Dump TeamViewer ID and password from memory
+Tested on Win10, Win7x64, Win7x32
 
 Installation:
 ------
